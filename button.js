@@ -1,7 +1,7 @@
 
  function home()
  {
-   window.location.assign("http://suganyaashokkumar.github.io/kurukshetra/home.html")
+   window.location.assign("//suganyaashokkumar.github.io/kurukshetra/home.html")
   }
  function events()
  {
